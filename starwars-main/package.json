@@ -1,6 +1,7 @@
 {
   "name": "starwars",
   "private": true,
+  "homepage": "https://ARHUL228.github.io/star",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
